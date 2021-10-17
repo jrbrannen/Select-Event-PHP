@@ -84,7 +84,7 @@
         <footer>
 
             <p class="text-center">
-                <a target="_blank"href="https://github.com/jrbrannen/Select-Event-PHP.git">GitHub Repo Link</a>
+                <a target="_blank"href="https://github.com/jrbrannen/Select-Event-PHP.git">GitHub Repo Link</a> <!--  GitHub Repo Link -->
             </p>
             
             <p class="text-center">
